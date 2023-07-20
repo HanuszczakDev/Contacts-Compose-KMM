@@ -32,6 +32,14 @@ val OnSurfaceVariantLight = Color(0xff424940)
 
 val OutlineLight = Color(0xff72796f)
 
+val InverseOnSurfaceLight = Color(0xFFF7F0E7)
+val InverseSurfaceLight = Color(0xFF33302A)
+val InversePrimaryLight = Color(0xFFEBC248)
+
+val SurfaceTintLight = Color(0xFF745B00)
+val OutlineVariantLight = Color(0xFFCFC5B4)
+val ScrimLight = Color(0xFF000000)
+
 // DARK
 val GreenPrimaryDark = Color(0xff00e559)
 val OnGreenDark = Color(0xff003910)
@@ -61,3 +69,11 @@ val SurfaceVariantDark = Color(0xff424940)
 val OnSurfaceVariantDark = Color(0xffc2c9bd)
 
 val OutlineDark = Color(0xff72796f)
+
+val InverseOnSurfaceDark = Color(0xFF1E1B16)
+val InverseSurfaceDark = Color(0xFFE8E1D9)
+val InversePrimaryDark = Color(0xFF745B00)
+
+val SurfaceTintDark = Color(0xFFEBC248)
+val OutlineVariantDark = Color(0xFF4C4639)
+val ScrimDark = Color(0xFF000000)
